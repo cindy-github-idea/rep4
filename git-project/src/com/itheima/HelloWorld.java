@@ -6,5 +6,6 @@ public class HelloWorld
         System.out.println("hi");
         System.out.println("我来了");
         System.out.println("我来了又");
+        System.out.println("我是第一批的人...");
     }
 }
